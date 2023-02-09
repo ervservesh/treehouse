@@ -1,3 +1,3 @@
 # treehouse
 
-Click to visit website https://github.com/ervservesh/treehouse.git
+Click to visit website https://ervservesh.github.io/treehouse/
