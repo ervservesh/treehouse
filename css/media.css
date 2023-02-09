@@ -1,0 +1,133 @@
+@media screen and (min-width:3000px) and (max-width:5000px) {
+	.secPro{ background-position:111% 95%;}
+}
+@media screen and (min-width:2100px) and (max-width:3000px) {
+	.secPro{ background-position:125% 95%;}
+}
+@media screen and (min-width:1600px) and (max-width:2100px) {
+	.secPro{ background-position:144% 95%;}
+}
+@media screen and (min-width:1451px) and (max-width:1600px) {
+	.secPro{ background-position:170% 95%;}
+}
+@media screen and (min-width:1366px) and (max-width:1450px) {
+	.secPro{ background-position:202% 95%;}
+}
+
+@media screen and (min-width:1280px) and (max-width:1365px) {
+	.secPro{ background-position:276% 95%;}
+}
+
+@media screen and (min-width:1024px) and (max-width:1280px) {}
+
+@media screen and (min-width:980px) and (max-width:1024px) {
+	.secPro{ min-height:0; background:none;}
+}
+
+@media screen and (min-width:768px) and (max-width:980px) {
+	.mainInner{ margin: auto; max-width: 940px; width:auto;}
+	.headInn{ padding:20px;}
+	.rowSec .colSec{ width:220px;}
+	.secInner_1 {padding: 50px 0;}
+	.secProInn{padding: 50px 20px;}
+	.secWrap_1{ min-height:0; padding:20px 0; background: rgba(0, 0, 0, 0.8);}
+	.secPart{ margin:0; width:auto; padding:0 20px;}
+	.proDetails{ margin-top:30px; width:auto;}
+	.proDetails p span{ display:inline;}
+	.secPro{ min-height:0; background:none;}
+	.secCul{ margin-top:20px;}
+	.secCulInn{ padding:50px 0;}
+	.secTestiInn{ padding:50px 0;}
+	.tetiRow{ margin-top:20px;}
+	.testiColRight{ width:496px;}
+	.contactInnSec{padding:50px 0;}
+}
+
+@media screen and (min-width:640px) and (max-width:767px) {
+	.mob_menu{ display:block; position:absolute; right:10px; top:15px;}
+	.navSec{ display:none; float:none;}
+	.navSec ul{ display:block; border-top:1px solid #ccc; margin-top:5px;}
+	.mainInner{ width:auto; padding:10px;}
+	.headInn{10px 0;}
+	.logoSec { float:none;}
+	.navSec ul li{ display:block; padding:5px 0; text-align:center;}
+	.bannerInn h2{font-size: 30px;}
+	.btnSecs{ margin-top:20px;}
+	.bannerWrap{ min-height:0; padding:20px 0;}
+	.h3Head{ font-size:30px;}
+	.rowSec{ margin-top:20px;}
+	.rowSec .colSec{ display:block; margin:0 auto 20px;}
+	.secPart{ margin:0; width:auto; padding:0 20px;}
+	.secWrap_1{ min-height:0; padding:20px 0; background: rgba(0, 0, 0, 0.8);}
+	.proDetails{ width:auto; margin-top:20px; text-align:center;}
+	.proDetails p span{ display:inline;}
+	.proDetails ul li{ text-align:center;}
+	.secCul{ margin-top:20px;}
+	.line{ display:none;}
+	.rowSec .colSec h4{ margin-top:10px;}
+	.tetiRow{ margin-top:20px;}
+	.testiColLeft{ float:none; margin:auto; display:block;}
+	.testiColRight{ width:auto; margin:10px 0;}
+	.contactInnSec h2{ font-size:30px;}
+	.proDetails ul li .detR{ text-align:left;}
+	.secPro{ min-height:0;}
+}
+
+@media screen and (min-width:480px) and (max-width:639px) {
+	.mob_menu{ display:block; position:absolute; right:10px; top:15px;}
+	.navSec{ display:none; float:none;}
+	.navSec ul{ display:block; border-top:1px solid #ccc; margin-top:5px;}
+	.mainInner{ width:auto; padding:10px;}
+	.headInn{10px 0;}
+	.logoSec { float:none;}
+	.navSec ul li{ display:block; padding:5px 0; text-align:center;}
+	.bannerInn h2{font-size: 30px;}
+	.btnSecs{ margin-top:20px;}
+	.bannerWrap{ min-height:0; padding:20px 0;}
+	.h3Head{ font-size:30px;}
+	.rowSec{ margin-top:20px;}
+	.rowSec .colSec{ display:block; margin:0 auto 20px;}
+	.secPart{ margin:0; width:auto; padding:0 20px;}
+	.secWrap_1{ min-height:0; padding:20px 0;}
+	.proDetails{ width:auto; margin-top:20px; text-align:center;}
+	.proDetails p span{ display:inline;}
+	.proDetails ul li{ text-align:center;}
+	.secCul{ margin-top:20px;}
+	.line{ display:none;}
+	.rowSec .colSec h4{ margin-top:10px;}
+	.tetiRow{ margin-top:20px;}
+	.testiColLeft{ float:none; margin:auto; display:block;}
+	.testiColRight{ width:auto; margin:10px 0;}
+	.contactInnSec h2{ font-size:30px;}
+	.proDetails ul li .detR{ text-align:left;}
+	.secPro{ min-height:0;}
+}
+
+@media screen and (min-width:320px) and (max-width:479px) {
+	.mob_menu{ display:block; position:absolute; right:10px; top:15px;}
+	.navSec{ display:none; float:none;}
+	.navSec ul{ display:block; border-top:1px solid #ccc; margin-top:5px;}
+	.mainInner{ width:auto; padding:10px;}
+	.headInn{10px 0;}
+	.logoSec { float:none;}
+	.navSec ul li{ display:block; padding:5px 0; text-align:center;}
+	.bannerInn h2{font-size: 30px;}
+	.btnSecs{ margin-top:20px;}
+	.bannerWrap{ min-height:0; padding:20px 0;}
+	.h3Head{ font-size:30px;}
+	.rowSec{ margin-top:20px;}
+	.rowSec .colSec{ display:block; margin:0 auto 20px;}
+	.secPart{ margin:0; width:auto;}
+	.secWrap_1{ min-height:0; padding:20px 0;}
+	.proDetails{ width:auto; margin-top:20px; text-align:center;}
+	.proDetails p span{ display:inline;}
+	.proDetails ul li{ text-align:center;}
+	.secCul{ margin-top:20px;}
+	.line{ display:none;}
+	.rowSec .colSec h4{ margin-top:10px;}
+	.tetiRow{ margin-top:20px;}
+	.testiColLeft{ float:none; margin:auto; display:block;}
+	.testiColRight{ width:auto; margin:10px 0;}
+	.contactInnSec h2{ font-size:30px;}
+	.secPro{ min-height:0;}
+}
